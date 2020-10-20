@@ -1,0 +1,41 @@
+a:hover{
+    text-decoration: none;
+}
+.brand-btn{
+    color: white ;
+    background-color: #111430;
+    width: 134px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+.brand-text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: 0.396px;
+    color: #2D2D2D;
+    padding: 50px 0;
+}
+button:focus {
+    outline: none;
+}
+ul li{
+    list-style: none;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    cursor: pointer;
+    margin: 5px 0;
+}
+img{
+    width: 100%;
+}
+
